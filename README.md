@@ -1,6 +1,13 @@
 # Collections analytics: is "recovery up 11% month-on-month" true?
 
 **Answer: no.** The +11% (Feb to Mar) is the 28-day vs 31-day month. Per calendar day the change is +0.3% (95% range about -6% to +7%). Read `reports/executive_memo.md` first.
+**Recommendation:** do not release the ₹10 Cr on current evidence. If one option must be named, choose better borrower targeting, released in tranches: ₹1 Cr now for a randomised test, and the balance only if it beats break-even. Confidence is low, because several linking keys in the data are broken (see the data quality report).
+
+**Start here:** reports/Executive_Memo.pdf (2 pages). The editable source is reports/executive_memo.md.
+
+Executive dashboard
+
+One-screen dashboard. The interactive version is dashboard/index.html (open in a browser).
 
 ## Deliverables
 
