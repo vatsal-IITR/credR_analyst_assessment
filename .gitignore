@@ -1,0 +1,4 @@
+data/collections.duckdb
+data/golden/
+__pycache__/
+.ipynb_checkpoints/
