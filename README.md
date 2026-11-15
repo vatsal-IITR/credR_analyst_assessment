@@ -24,6 +24,11 @@ One-screen dashboard. The interactive version is dashboard/index.html (open in a
 | Part 5 | Production design | `docs/production_design.md` |
 | - | Metric definitions | `docs/metric_definitions.md` |
 
+## Architecture
+
+**Architecture**
+Raw, Staging, Clean, Golden, Feature, Metrics, Dashboard. Full description in architecture/architecture.md and docs/production_design.md.
+
 ## Run it
 
 ```
