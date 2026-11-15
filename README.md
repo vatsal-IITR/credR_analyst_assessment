@@ -62,3 +62,4 @@ The pipeline deletes and rebuilds the DuckDB file on every run, so results are r
 ## What the data could not answer
 
 Agent tenure, language, geography, borrower segment, cost per Rs recovered and recovery per agent-hour. The reasons are in section 4 of the data quality report. Several linking keys are broken, and outcome fields (answered, PTP status) are unrelated to payments, so channel effects could not be established. This should be confirmed with the data owners before it is treated as a business fact.
+<img width="1901" height="952" alt="Screenshot 2026-11-15 155225" src="https://github.com/user-attachments/assets/97b136cd-fd9d-44c3-9e98-29fe7511080c" />
